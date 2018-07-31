@@ -1,7 +1,7 @@
 {
   "name": "react-merge-props-and-styles",
   "version": "0.0.1",
-  "description": "react utility to merge multiple props with respect to classnanmes and styles",
+  "description": "react utility to merge multiple props with respect to class names and styles",
   "main": "./lib/index.js",
   "scripts": {
     "clean": "rimraf lib",
